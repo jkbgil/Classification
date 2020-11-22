@@ -1,3 +1,5 @@
+# End to end classification project
+
 To access the project, open the "Classification - J. Gil.ipynb" file.
 
 # Description
@@ -8,6 +10,6 @@ Based on a set of features like age, workclass, education, race etc. determine w
 
 https://archive.ics.uci.edu/ml/datasets/Adult
 
-# Project author:
+# Project author
 
 Jakub Gil
